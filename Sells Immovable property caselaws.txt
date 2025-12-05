@@ -1,0 +1,66 @@
+1.Rizvi Khan vs. Abdul Rashid and Ors. (12.07.2024 - JHRHC)
+Citation: MANU/JH/0994/2024
+
+The court explicitly applied the principle of Nemo dat quod non habet (no one gives what they do not have) to rule that a gift deed executed by a donor lacking title to 'Anabad Bihar Sarkar land' (government land) is void ab initio. 
+Therefore could not acquire valid title. 
+The case also highlights the necessity of impleading the State and other relevant authorities when dealing with government land, reinforcing the special status of such property.
+
+2.State of Uttar Pradesh and Ors. vs. United Bank of India and Ors. (26.11.2015 - SC)
+Citation: MANU/SC/1353/2015
+ 
+It establishes that a mortgage of Nazul land created without the prior written sanction of the State Government, as required by lease terms and Nazul Rules, is void ab initio. 
+This directly answers what happens when a person attempts to transfer (in this case, mortgage) government land without proper title or authority, emphasizing the paramount title of the State and the strict conditions governing Nazul land transfers.
+
+3. Muthuraju and Ors. vs. Shivalingaswamy (10.07.2024 - KARHC)
+Citation: MANU/KA/3236/2024
+
+It squarely applies the fundamental principle of Nemo Dat Quod Non Habet to a scenario where a vendor sells more land than she possesses. 
+The court held that such a sale is invalid, and a suit for bare injunction is not maintainable when the plaintiff's title is clouded by the vendor's lack of full title. 
+This directly addresses the consequence of selling property without holding complete title, reinforcing that the transferee cannot acquire a better title than the transferor had.
+
+4. M.Oriental Bank Limited and Ors. vs. Samuel Nyingi Matimu and Ors. (07.06.2021 - KEHC - Nakuru)
+Citation: MANU/KEHC/4721/2021
+
+It reinforces the nemo dat quod non habet principle in the context of a disputed title to movable property (vehicle), but its legal reasoning is directly applicable to immovable property. 
+The court emphasized that a seller cannot pass title they do not possess, especially when the property is encumbered. 
+It highlights the importance of establishing the legality of title acquisition, particularly when fraud or lack of clear ownership is alleged, which is analogous to selling/gifting property without holding title.
+
+5.State of Madhya Pradesh vs. Ramkumar Sharma (06.04.2005 - MPHC)
+Citation: MANU/MP/0216/2005
+
+This case deals with the validity of a gift of immovable property where the donor's title was questionable and the gift deed was unregistered. 
+The court held that an unregistered gift deed is invalid for conveying title to immovable property, failing to meet the requirements of Section 123 of the Transfer of Property Act, 1882. 
+It also questioned the donor's ownership, implicitly addressing the scenario of gifting property without clear title.
+
+6. Erappa vs. Anjanappa and Ors. (17.06.2020 - KARHC)
+Citation: MANU/KA/2433/2020
+
+The invalidity of a gift of immovable property without a registered instrument. 
+The court affirmed that a claim of title based on an alleged gift deed, unsupported by a registered instrument, cannot effect a valid transfer of title. 
+This is crucial for the 'gifts immovable property... through the registered deed' part of the query, emphasizing the mandatory nature of registration for gifts of immovable property.
+
+7. State of Kerala vs. T.C. Oomman and Ors. (17.09.1991 - KERHC)
+Citation: MANU/KE/0379/1991
+
+An oral gift of immovable property is invalid without a registered instrument, as mandated by Section 123 of the Transfer of Property Act, 1882. 
+This directly answers the 'gifts immovable property through the registered deed' aspect of the query, clarifying that an unregistered gift of immovable property is legally void.
+
+8. Shamsuddin vs. Ameer Jahan Begum and Ors. (18.11.1994 - ALLHC)
+Citation: MANU/UP/0531/1994
+
+Tells about 'Hiba-bil-Iwaz' (gift for consideration) under Mohammedan Law. 
+The court held that an oral transfer of immovable property by a Muslim husband to his wife in lieu of dower debt, if the property value exceeds Rs. 100, is considered a sale under Section 54 of the Transfer of Property Act, 1882, and requires a registered instrument for valid title transfer. 
+This addresses both the 'gifts immovable property' and 'unregistered deed' aspects, particularly in the context of Muslim personal law.
+
+9. Moideen kutty vs. Pathunni Umma and Ors. (02.02.1988 - KERHC)
+Citation: MANU/KE/0257/1988
+
+Clarifies that a 'hiba-bil-iwaz' (gift for consideration) of immovable property valued at Rs. 100 or more is treated as a sale under Indian law and requires a registered instrument for validity. 
+An oral 'hiba-bil-iwaz' is legally ineffective without a registered deed, directly addressing the consequences of gifting immovable property without a registered deed, especially under Mohammedan Law.
+
+10. Puneet Sharma vs. Sunil V Gupta and Ors. (09.06.2023 - UCHC)
+Citation: MANU/UC/0435/2023
+
+Deals with the inability of a person to transfer property they do not own or have authority over. 
+The court applied 'nemo dat quod non habet' to rule that an unregistered agreement to sell by an unauthorized person confers no right, title, or interest, and cannot be the basis for challenging a subsequent registered gift deed. While the query focuses on the transferor not holding title, 
+this case shows the consequence for the transferee when the transferor lacks title/authority, and also highlights the invalidity of unregistered agreements for immovable property.
